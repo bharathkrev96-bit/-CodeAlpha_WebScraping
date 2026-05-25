@@ -1,2 +1,2 @@
-# -CodeAlpha_WebScraping
- Web Scraping project for CodeAlpha Internship
+#CodeAlpha_Internship 2026
+Bharath K - CodeAlpha Data Analytics Internship 2026
