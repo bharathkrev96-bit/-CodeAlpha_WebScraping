@@ -1,2 +1,3 @@
-#CodeAlpha_Internship 2026
+CodeAlpha_Internship
+
 Bharath K - CodeAlpha Data Analytics Internship 2026
